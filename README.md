@@ -55,7 +55,7 @@
 ✨ A few things I’ve worked on:
 
 🔹 **Sales Data Analysis**  
-Analyzed sales trends, KPIs, and product performance to generate business insights.
+Pharmaceutical Sales Analysis and Visualization Using Python.
 
 🔹 **Customer Segmentation**  
 Used clustering algorithms to segment customers and improve targeting.

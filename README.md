@@ -57,11 +57,8 @@
 🔹 **Sales Data Analysis**  
 Pharmaceutical Sales Analysis and Visualization Using Python.
 
-🔹 **Customer Segmentation**  
-Used clustering algorithms to segment customers and improve targeting.
-
-🔹 **Predictive Modeling**  
-Built ML models to forecast outcomes and support strategic decisions.
+🔹 **PowerBI Dashbobard**
+Performed data cleaning, transformation, and modeling using Power Query.
 
 ➡️ Check repositories for code & documentation.
 

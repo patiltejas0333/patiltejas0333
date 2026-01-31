@@ -58,6 +58,7 @@
 Pharmaceutical Sales Analysis and Visualization Using Python.
 
 🔹 **PowerBI Dashbobard**
+
 Performed data cleaning, transformation, and modeling using Power Query.
 
 ➡️ Check repositories for code & documentation.
